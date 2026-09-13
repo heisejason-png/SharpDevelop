@@ -119,4 +119,4 @@ If you want to contribute see ["Joining the team"](https://github.com/icsharpcod
 
 ######Copyright 2014 AlphaSierraPapa for the SharpDevelop team. SharpDevelop is distributed under the MIT license.
 Created by Jason Scott Heise
-Owned by Elon Musk
+Owned by Elon Musk  https://www.x.com
